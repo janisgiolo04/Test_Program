@@ -292,8 +292,6 @@ Open the URL printed in the console (default: `http://localhost:8080`).
 2. Select at least 2 ETFs, enter an investment amount and duration
 3. Click **Vergleichen** – a comparison table and multi-line chart appear
 
-> 🚧 Add UI screenshots of the main screens:
-
 ![UI – Start page](docs/ui-images/ui_start_screen.png)
 ![UI – Renditerechner](docs/ui-images/ui_renditerechner_screen.png)
 ![UI – Vergleich](docs/ui-images/ui_vergleich_screen.png)
@@ -336,24 +334,18 @@ The 15 manual test cases live in [`docs/test_cases.md`](docs/test_cases.md). Eac
 6. Status (pass / fail)
 7. Comments
 
-> 🚧 Fill in the *Actual Result*, *Status* and *Comments* rows of every test case in `docs/test_cases.md` when executing the tests in the browser.
-
 ---
 
 ## 👥 Team & Contributions
 
-> 🚧 Fill in the names of all team members and describe their individual contributions below.
-
 | Name | Contribution |
 |---|---|
-| Student A | NiceGUI UI + documentation |
-| Student B | Database & ORM + documentation |
-| Student C | Business logic & tests + documentation |
+| Mateo | NiceGUI UI + documentation |
+| Janis | Database & ORM + documentation |
+| Cyril | Business logic & tests + documentation |
 
 ---
 
 ## 📝 License
 
 This project is provided for **educational use only** as part of the Advanced Programming module.
-
-[MIT License](LICENSE)
