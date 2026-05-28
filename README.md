@@ -125,8 +125,6 @@ The application allows users to:
 
 ## 🗄️ Database and ORM
 
-![ER Diagram](docs/architecture-diagrams/er_diagram.png)
-
 The application uses **SQLModel** to map domain objects to a SQLite database (`data/etf_app.db`). On first launch the database is automatically created and seeded with the **10 largest ETFs worldwide** by assets under management.
 
 ### Entities
