@@ -88,9 +88,14 @@ The application allows users to:
 
 ### Wireframes / Mockups
 
-> 🚧 Add screenshots of the wireframe mockups you chose to implement.
+**Start Page:**
+![Wireframe Start](docs/ui-images/wireframe_start.png)
 
-![Wireframes](docs/ui-images/wireframes.png)
+**Renditerechner:**
+![Wireframe Renditerechner](docs/ui-images/wireframe_renditerechner.png)
+
+**Vergleich:**
+![Wireframe Vergleich](docs/ui-images/wireframe_vergleich.png)
 
 ---
 
