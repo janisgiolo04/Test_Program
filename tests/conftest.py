@@ -20,10 +20,14 @@ def dao():
 
     In-memory means the database lives only in RAM and disappears
     after the test. The real etf_app.db is never touched.
+
+    We use yield + engine.dispose() so every database connection is
+    closed cleanly after the test (no ResourceWarning).
     """
     engine = create_engine("sqlite:///:memory:")
     SQLModel.metadata.create_all(engine)
-    return ETFDAO(engine)
+    yield ETFDAO(engine)
+    engine.dispose()
 
 
 @pytest.fixture
