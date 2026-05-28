@@ -23,9 +23,8 @@
 | **Steps** | 1. Open `http://localhost:8080`<br>2. Stay on the start page<br>3. Scroll to "Vorhandene ETFs" |
 | **Test Data** | – |
 | **Expected Result** | Table contains exactly 10 rows. Columns: Name, ISIN, Symbol, TER (%), Kategorie, Aktueller Kurs, Erw. Rendite p.a. (%). VOO, SPY, IVV, VTI, QQQ, VEA, IEFA, VWO, VWRL, IWDA all appear. |
-| **Actual Result** | _to be filled in_ |
-| **Status** | _Pass / Fail_ |
-| **Comments** | _to be filled in_ |
+| **Actual Result** | Table contains exactly 10 rows. Columns: Name, ISIN, Symbol, TER (%), Kategorie, Aktueller Kurs, Erw. Rendite p.a. (%). VOO, SPY, IVV, VTI, QQQ, VEA, IEFA, VWO, VWRL, IWDA all appear. |
+| **Status** | Pass |
 
 ---
 
