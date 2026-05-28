@@ -298,9 +298,18 @@ Open the URL printed in the console (default: `http://localhost:8080`).
 2. Select at least 2 ETFs, enter an investment amount and duration
 3. Click **Vergleichen** – a comparison table and multi-line chart appear
 
-![UI – Start page](docs/ui-images/ui_start_screen.png)
-![UI – Renditerechner](docs/ui-images/ui_renditerechner_screen.png)
-![UI – Vergleich](docs/ui-images/ui_vergleich_screen.png)
+<table>
+  <tr>
+    <td align="center"><b>Start Page</b></td>
+    <td align="center"><b>Renditerechner</b></td>
+    <td align="center"><b>Vergleich</b></td>
+  </tr>
+  <tr>
+    <td><img src="docs/ui-images/ui_start_screen.png" width="250" alt="UI Start page"></td>
+    <td><img src="docs/ui-images/ui_renditerechner_screen.png" width="250" alt="UI Renditerechner"></td>
+    <td><img src="docs/ui-images/ui_vergleich_screen.png" width="250" alt="UI Vergleich"></td>
+  </tr>
+</table>
 
 ---
 
