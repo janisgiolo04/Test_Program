@@ -89,12 +89,15 @@ The application allows users to:
 ### Wireframes / Mockups
 
 **Start Page:**
+
 ![Wireframe Start](docs/ui-images/wireframe_start.png)
 
 **Renditerechner:**
+
 ![Wireframe Renditerechner](docs/ui-images/wireframe_renditerechner.png)
 
 **Vergleich:**
+
 ![Wireframe Vergleich](docs/ui-images/wireframe_vergleich.png)
 
 ---
